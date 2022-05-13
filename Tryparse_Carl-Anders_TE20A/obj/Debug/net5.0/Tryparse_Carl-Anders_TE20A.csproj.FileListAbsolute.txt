@@ -14,3 +14,9 @@ C:\Users\arosenius.carlander\Documents\Tryparse_Carl-Anders_TE20A\Tryparse_Carl-
 C:\Users\arosenius.carlander\Documents\Tryparse_Carl-Anders_TE20A\Tryparse_Carl-Anders_TE20A\Tryparse_Carl-Anders_TE20A\obj\Debug\net5.0\ref\Tryparse_Carl-Anders_TE20A.dll
 C:\Users\arosenius.carlander\Documents\Tryparse_Carl-Anders_TE20A\Tryparse_Carl-Anders_TE20A\Tryparse_Carl-Anders_TE20A\obj\Debug\net5.0\Tryparse_Carl-Anders_TE20A.pdb
 C:\Users\arosenius.carlander\Documents\Tryparse_Carl-Anders_TE20A\Tryparse_Carl-Anders_TE20A\Tryparse_Carl-Anders_TE20A\obj\Debug\net5.0\Tryparse_Carl-Anders_TE20A.genruntimeconfig.cache
+C:\Users\arosenius.carlander\Documents\Tryparse_Carl-Anders_TE20A\Tryparse_Carl-Anders_TE20A\Tryparse_Carl-Anders_TE20A\bin\Debug\net5.0\Raylib-cs.dll
+C:\Users\arosenius.carlander\Documents\Tryparse_Carl-Anders_TE20A\Tryparse_Carl-Anders_TE20A\Tryparse_Carl-Anders_TE20A\bin\Debug\net5.0\runtimes\linux-x64\native\libraylib.so
+C:\Users\arosenius.carlander\Documents\Tryparse_Carl-Anders_TE20A\Tryparse_Carl-Anders_TE20A\Tryparse_Carl-Anders_TE20A\bin\Debug\net5.0\runtimes\osx-x64\native\libraylib.dylib
+C:\Users\arosenius.carlander\Documents\Tryparse_Carl-Anders_TE20A\Tryparse_Carl-Anders_TE20A\Tryparse_Carl-Anders_TE20A\bin\Debug\net5.0\runtimes\win-x64\native\raylib.dll
+C:\Users\arosenius.carlander\Documents\Tryparse_Carl-Anders_TE20A\Tryparse_Carl-Anders_TE20A\Tryparse_Carl-Anders_TE20A\bin\Debug\net5.0\runtimes\win-x86\native\raylib.dll
+C:\Users\arosenius.carlander\Documents\Tryparse_Carl-Anders_TE20A\Tryparse_Carl-Anders_TE20A\Tryparse_Carl-Anders_TE20A\obj\Debug\net5.0\Tryparse_Carl-Anders_TE20A.csproj.CopyComplete
