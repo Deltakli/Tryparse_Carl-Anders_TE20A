@@ -23,6 +23,4 @@ else
 }
 
 
-
-
 Console.ReadLine();
